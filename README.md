@@ -1,7 +1,7 @@
 My Python Mac Admin Tool
 ===============================
 
-version number: 0.0.1
+version number: 0.0.2
 author: Geoff Lee
 
 Overview

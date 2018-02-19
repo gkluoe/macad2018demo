@@ -14,7 +14,7 @@
 """The macad2018demo tool"""
 import argparse
 
-VERSION = "0.0.1"
+VERSION = "0.0.2"
 DESCRIPTION = """This is the macad2018demo tool"""
 
 def main():
