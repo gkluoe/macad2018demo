@@ -23,6 +23,8 @@ def main():
 
     # Now do stuff!
     assert args
+    print "Hi there, MacAD!"
+
 
 def process_args(argv=None):
     """Process any commandline arguments"""
